@@ -89,7 +89,6 @@ main h1{
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
 
-/* BUZ class */
 
 .Buzz {
     display: flex;
@@ -110,7 +109,6 @@ main h1{
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
 
-/* NUM class */
 
 .num {
     display: flex;
@@ -130,7 +128,6 @@ main h1{
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
 
-/* Navigation */
 
 .navContainer {
     width: 100%;

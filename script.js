@@ -16,11 +16,11 @@ while (main.firstChild) {
 
 for (let i = 1; i <= 100; i++) {     
 
-    let newDiv = document.createElement("div");
+    let newDiv = document.createElement("myid");
     let newPar = document.createElement("p");
 
     newDiv.appendChild(newPar);
-    main.appendChild(newDiv).setAttribute("id", "div_" + i);    
+    main.appendChild(newDiv).setAttribute("id", "myid_" + i);    
 
     if (i < inputMin.value || i > inputMax.value) {
         newDiv.style = "display: none";
